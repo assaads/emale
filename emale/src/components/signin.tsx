@@ -7,7 +7,7 @@ import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { Separator } from "@/components/ui/separator"
 
-export function sign-in() {
+export function Signin() {
   return (
     <div key="1" className="w-full space-y-6">
       <div className="flex flex-col min-h-screen">
